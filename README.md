@@ -1,7 +1,7 @@
 Hospital Ratings Shiny App
 ============
 
-See the quality of care in different aspects at over 4000 Medicare-certified hospitals across the country. Names must be exact to work.
+See the quality of care in different aspects at over 4000 Medicare-certified hospitals across the country. Names must be an exact match with database.
 
 Easiest way to run the app:
 
